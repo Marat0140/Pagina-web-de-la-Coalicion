@@ -120,6 +120,8 @@ p.mision-quintuple {
 }
 
 footer.pie {
+    position: relative;
+    top: 280px;
     background-color: #d7dae1;
 }
 
